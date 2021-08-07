@@ -19,37 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c7bccaa-84e5-486e-abac-5fb61f3ced77" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-website/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-website/css/bootstrap-grid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-website/css/bootstrap-grid.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-website/css/bootstrap-grid.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-website/css/bootstrap-grid.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-website/css/bootstrap-reboot.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-website/css/bootstrap-reboot.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-website/css/bootstrap-reboot.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-website/css/bootstrap-reboot.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-website/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-website/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-website/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-website/css/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-website/css/my-style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-website/images/avatar.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-website/images/hobbies.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-website/images/language.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-website/images/mobile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-website/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-website/js/bootstrap.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-website/js/bootstrap.bundle.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-website/js/bootstrap.bundle.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-website/js/bootstrap.bundle.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-website/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-website/js/bootstrap.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-website/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-website/js/bootstrap.min.js.map" beforeDir="false" />
-    </list>
+    <list default="true" id="0c7bccaa-84e5-486e-abac-5fb61f3ced77" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
